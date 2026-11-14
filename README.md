@@ -1,1 +1,2 @@
-<img src="noctis-zone-degen-x-header.png" width="100%">
+![Uploading noctis-zone-degen-x-header.png…]()
+
